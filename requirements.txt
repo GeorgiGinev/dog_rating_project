@@ -1,0 +1,9 @@
+tensorflow==2.15.0
+matplotlib
+pandas
+scipy
+torch
+torchvision
+random
+tkinter
+pillow

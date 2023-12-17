@@ -1,0 +1,40 @@
+Training Epoch [1/10], Batch [1/22], Loss: 0.6103742718696594
+Training Epoch [1/10], Batch [11/22], Loss: 0.30457258224487305
+Training Epoch [1/10], Batch [21/22], Loss: 0.3050173819065094
+Epoch [1/10], Validation Loss: 0.35808136889880354
+Training Epoch [2/10], Batch [1/22], Loss: 0.32508584856987
+Training Epoch [2/10], Batch [11/22], Loss: 0.25347796082496643
+Training Epoch [2/10], Batch [21/22], Loss: 0.3535114526748657
+Epoch [2/10], Validation Loss: 0.21385730125687338
+Training Epoch [3/10], Batch [1/22], Loss: 0.29621922969818115
+Training Epoch [3/10], Batch [11/22], Loss: 0.18059124052524567
+Training Epoch [3/10], Batch [21/22], Loss: 0.1979110836982727
+Epoch [3/10], Validation Loss: 0.19866156036203558
+Training Epoch [4/10], Batch [1/22], Loss: 0.2433948814868927
+Training Epoch [4/10], Batch [11/22], Loss: 0.20250606536865234
+Training Epoch [4/10], Batch [21/22], Loss: 0.15367870032787323
+Epoch [4/10], Validation Loss: 0.18146885626695372
+Training Epoch [5/10], Batch [1/22], Loss: 0.2688977122306824
+Training Epoch [5/10], Batch [11/22], Loss: 0.153597891330719
+Training Epoch [5/10], Batch [21/22], Loss: 0.15371163189411163
+Epoch [5/10], Validation Loss: 0.178246265954592
+Training Epoch [6/10], Batch [1/22], Loss: 0.13463763892650604
+Training Epoch [6/10], Batch [11/22], Loss: 0.11129367351531982
+Training Epoch [6/10], Batch [21/22], Loss: 0.12061053514480591
+Epoch [6/10], Validation Loss: 0.13948924094438553
+Training Epoch [7/10], Batch [1/22], Loss: 0.0806230753660202
+Training Epoch [7/10], Batch [11/22], Loss: 0.09016945213079453
+Training Epoch [7/10], Batch [21/22], Loss: 0.1440567821264267
+Epoch [7/10], Validation Loss: 0.12508118897676468
+Training Epoch [8/10], Batch [1/22], Loss: 0.1522691547870636
+Training Epoch [8/10], Batch [11/22], Loss: 0.17365175485610962
+Training Epoch [8/10], Batch [21/22], Loss: 0.1150699034333229
+Epoch [8/10], Validation Loss: 0.11896131407808173
+Training Epoch [9/10], Batch [1/22], Loss: 0.08471527695655823
+Training Epoch [9/10], Batch [11/22], Loss: 0.08247771859169006
+Training Epoch [9/10], Batch [21/22], Loss: 0.09391731023788452
+Epoch [9/10], Validation Loss: 0.0993567170067267
+Training Epoch [10/10], Batch [1/22], Loss: 0.06047135591506958
+Training Epoch [10/10], Batch [11/22], Loss: 0.11765148490667343
+Training Epoch [10/10], Batch [21/22], Loss: 0.08989039808511734
+Epoch [10/10], Validation Loss: 0.08832399547100067
